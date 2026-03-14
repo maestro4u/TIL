@@ -21,6 +21,8 @@
 
 <details>
   <summary style="font-size: 16px;"><strong id="python">Python (전체 보기)</strong></summary>
+
+- [2026-03-13-Python-requests-timeout-설정](python/2026-03-13-Python-requests-timeout-설정.md)
   <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
 <br>
